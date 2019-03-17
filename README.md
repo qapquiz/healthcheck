@@ -2,7 +2,7 @@
 A healthcheck tool written in Rust. It will fire a webhook for you when the server didn't return 200.
 
 ## USAGE:
-    healthcheck --every <every> --url <url> --webhook <webhook>/
+    healthcheck --every <every> --url <url> --webhook <webhook>
 
 ## FLAGS:
     -h, --help       Prints help information
